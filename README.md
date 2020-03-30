@@ -1,1 +1,5 @@
 # Zelda-Game-Maker-Project
+
+This is a very old project which I have long since abandoned, but I worked on it for a long time, and learned a lot. It was in many ways my first serious, large project, and it taught me so much about good gameplay design.
+
+Unfortunately this game is not exactly playable right now, but if anyone has any serious interest in the project I can try to revive it. There is one mostly-completed dungeon with a couple of decent puzzles, and the gameplay is all right for the most part, though sometimes it's super janky. The cool part of this game was the Goddess essences: Din's, Farore's, and Nayru's, which granted you fire, wind/earth, and ice/electricity magic, respectively. You could do cool things like power up your sword with fire (Din) or gain super speed (Farore) or shock enemies with your sword (Nayru); and there was a magic rod that changed its magic spell from fireballs to ice balls with Nayru, and Farore with the magic rod did something that I can't quite remember.
